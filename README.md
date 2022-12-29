@@ -141,3 +141,4 @@ const awsmobile = {
 4. Update the `webapp/src/aws-exports.js` file with the Cognito user pool information.
 5. Run `yarn dev` in the `webapp` folder to start the frontend application.
 
+![Login Screen](./assets/login_screen.png)
